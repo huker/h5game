@@ -10,7 +10,6 @@ var canWidth,canHeight;//获取canvas的宽高
 var ane;//海葵
 var fruit;//果实
 var bgPic=new Image();//背景图
-
 //加载游戏
 document.body.onload=game;
 
